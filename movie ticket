@@ -1,0 +1,6 @@
+ticket_price=90
+wallet_size=70
+if ticket_price<=wallet_size:
+    print("HURRAY, I CAN GO TO THIS MOVIE!")
+else:
+    print("I DONT HAVE ENOUGH MONEY")
